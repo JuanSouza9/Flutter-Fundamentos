@@ -1,4 +1,4 @@
-# Flutter-Fundamentos
+# Curso Alura - Flutter Fundamentos: Crie o seu primeiro App
 
 No início, conhecemos o Flutter e ganhamos acesso à ele por meio do Prompt de Comando/Terminal, por onde conseguimos criar um projeto e verificar a instalação de dependências. 
 Em seguida, aprendemos que existem diferentes editores que nos permitem trabalhar com o código, com o IntelliJ, e o Visual Studio Code. 
