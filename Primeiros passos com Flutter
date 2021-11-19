@@ -1,0 +1,12 @@
+09-11
+
+introdução flutter
+
+comandos do flutter:
+create flutter name-project
+flutter run (para executar o codigo)
+
+
+tudo que vai iniciar fica dentro do runApp()
+
+use setState para atualizar o statefull
